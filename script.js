@@ -2,4 +2,6 @@ const a = 100;
 const b = 200;
 
 const c = a+b
-a
+
+
+// this is my 1st project 
